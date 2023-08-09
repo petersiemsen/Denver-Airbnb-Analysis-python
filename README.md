@@ -12,4 +12,4 @@ The objective of this project will be to get a better understanding of the short
 
 
 
-I conducted my analysis both in Python and Tableau and created a public dashboard to summarize my findings, which can be viewed [HERE](https://public.tableau.com/views/AirbnbProject_16911728034900/Story1?:language=en-US&:display_count=n&:origin=viz_share_link).
+I conducted my analysis both in Python and Tableau and created a public dashboard to summarize my findings, which can be viewed [HERE](https://public.tableau.com/shared/X9CHRKQGT?:display_count=n&:origin=viz_share_link).
